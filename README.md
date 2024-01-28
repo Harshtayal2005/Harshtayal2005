@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshtayal2005
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...harshtayal2005@gmail.com
 
