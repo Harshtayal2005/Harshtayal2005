@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Harshtayal2005
-- 👀 I’m interested in ...Programming
-- 📫 How to reach me ...harshtayal2005@gmail.com
+# Hi, I’m Harsh Tayal
+- I'm proficient in DSA with C++
+- Currently working on MERN stack projects
+- 📫 Reach out to me at harshtayal2005@gmail.com
 
 <!---
 Harshtayal2005/Harshtayal2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
