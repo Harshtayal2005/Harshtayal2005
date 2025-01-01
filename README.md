@@ -1,4 +1,4 @@
-# Hi, I’m Harsh Tayal
+# Hi, I’m Harsh Tayal 🙋
 - 🧑‍💻 I'm proficient in DSA with C++
 - 💻 Currently working on MERN stack projects
 - 📫 Reach out to me at harshtayal2005@gmail.com
